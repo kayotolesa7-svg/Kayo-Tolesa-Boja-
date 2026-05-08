@@ -1,0 +1,6 @@
+export interface Question {
+  id: number;
+  text: string;
+  answer: string;
+  category: string;
+}
